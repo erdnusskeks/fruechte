@@ -85,6 +85,7 @@ GEM
     minitest (5.14.4)
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
+    psych (2.0.17)
     rack (1.6.13)
     rack-test (0.6.3)
       rack (>= 1.0)
@@ -169,6 +170,7 @@ DEPENDENCIES
   jbuilder (~> 2.0)
   jquery-rails
   mini_magick (= 3.8.0)
+  psych
   rails (= 4.2.7.1)
   sass-rails (~> 5.0)
   sdoc (~> 0.4.0)
